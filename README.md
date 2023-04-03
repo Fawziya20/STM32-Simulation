@@ -7,13 +7,13 @@ To draw the schematic and simulate the embedded system for the given requirement
 ![image](https://user-images.githubusercontent.com/6159567/228723969-3892a2a3-3743-4300-9636-ba0dba4ed150.png)
 
 ## STEPS:
-1)We start by designing the circuit in Proteus.<br>
-2)3 switches, 1 push button and a pair of LEDs are used for each.<br>
-3)The necessary connections are made out to complete the flow from Inputs (switch) to the Outputs (LEDs).<br>
-4)Once the entire layout has been designed, we move to coding the Microcontroller.<br>
-5)In STM32CubeIDE we configure the necessary pins as GPIO Input and Output pins.<br>
-6)Then we use a logical counter to blink the LEDs according to their respective frequencies.<br>
-7)After coding all the ports, we build the project and load the .elf file onto the simulator.<br>
+1) We start by designing the circuit in Proteus.<br>
+2) 3 switches, 1 push button and a pair of LEDs are used for each.<br>
+3) The necessary connections are made out to complete the flow from Inputs (switch) to the Outputs (LEDs).<br>
+4) Once the entire layout has been designed, we move to coding the Microcontroller.<br>
+5) In STM32CubeIDE we configure the necessary pins as GPIO Input and Output pins.<br>
+6) Then we use a logical counter to blink the LEDs according to their respective frequencies.<br>
+7) After coding all the ports, we build the project and load the .elf file onto the simulator.<br>
 
 ## CIRCUIT DIAGRAM:
 ![229127731-49071001-cc04-4a6a-8c31-2cb614257e9b](https://user-images.githubusercontent.com/75235022/229498976-02bea492-bae9-4315-943a-de0b9dd12dbc.jpg)
