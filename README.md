@@ -7,8 +7,8 @@ To draw the schematic and simulate the embedded system for the given requirement
 ![image](https://user-images.githubusercontent.com/6159567/228723969-3892a2a3-3743-4300-9636-ba0dba4ed150.png)
 
 ## STEPS:
-1)We start by designing the circuit in Proteus.
-2)3 switches, 1 push button and a pair of LEDs are used for each.
+1)We start by designing the circuit in Proteus.\n
+2)3 switches, 1 push button and a pair of LEDs are used for each.\n
 3)The necessary connections are made out to complete the flow from Inputs (switch) to the Outputs (LEDs).
 4)Once the entire layout has been designed, we move to coding the Microcontroller.
 5)In STM32CubeIDE we configure the necessary pins as GPIO Input and Output pins.
